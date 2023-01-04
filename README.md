@@ -10,4 +10,6 @@ $$/   $$/        $$$$$$$/       $$/   $$/        $$$$$$/        $$$$$$$/        
           v1.0a                                                                                                 $$ |      
                                                                                github - chillwave (Jan '23)     $$ |      
                                                                                                                 $$/       
+#NanoDrop
+
 Nanodrop is a very small python script to host whatever is in the current directory that it's running in.
