@@ -1,5 +1,5 @@
 # Open the file in read-only mode
-with open('readme.md', 'r') as file:
+with open('art.txt', 'r') as file:
     # Read the contents of the file
     readme = file.read()
 
