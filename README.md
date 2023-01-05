@@ -1,4 +1,4 @@
-#nanodrop
+# Nanodrop
 
 nanodrop.py reads the contents of a file called art.txt (if it exists) and prints it to the console, along with running a simple HTTP server on port 8000 that allows anyone (0.0.0.0/0) to connect to it. This is practical for quick sharing of files in one direction.
 
